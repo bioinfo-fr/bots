@@ -1,0 +1,9 @@
+# Bioinfo-Fr Bots
+
+IRC bots for #bioinfo-fr channel on freenode.
+
+## License
+![GNU AGPL v3 logo](https://www.gnu.org/graphics/agplv3-155x51.png)
+
+These bots's source code is available under the GNU Affero GPL v3 license.
+*Confer* to LICENSE.md for further details on this license.
