@@ -1,0 +1,11 @@
+[Unit]
+Description=Rosalind IRC bot
+
+[Service]
+Execstart=npm start
+WorkingDirectory=/var/www/bots/irc/rosalind
+Restart=always
+RestartSec=10
+
+[Install]
+WantedBy=multi-user.target
