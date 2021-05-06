@@ -1,8 +1,8 @@
 [Unit]
-Description=Rosalind IRC bot
+Description=Excel IRC bot
 
 [Service]
-Execstart=npm start
+ExecStart=npm start
 WorkingDirectory=/var/www/bots/irc/rosalind
 Restart=always
 RestartSec=10

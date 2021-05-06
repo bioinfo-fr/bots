@@ -1,5 +1,6 @@
 {
     "channels": ["#bioinfo-fr"],
     "server": "irc.freenode.net",
-    "botName": "excel"
+    "botName": "excel",
+    "lang": "fr"
 }
